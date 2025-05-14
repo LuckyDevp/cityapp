@@ -1,0 +1,23 @@
+# Node.js
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos generados por el empaquetado
+*.exe
+*.jar
+
+# Archivos de configuración locales
+.vscode/
+.env
+
+# Logs
+logs/
+*.log

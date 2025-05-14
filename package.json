@@ -1,0 +1,19 @@
+{
+  "name": "cityapp",
+  "version": "1.0.0",
+  "description": "CLI para crear y empaquetar apps Java y WebApp",
+  "main": "index.js",
+  "bin": {
+    "cityapp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["cli", "java", "webapp", "cityapp"],
+  "author": "Source",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^11.0.0",
+    "fs-extra": "^11.1.1"
+  }
+}
